@@ -2,7 +2,7 @@
  Programming language: Verilog
  
  > ## Introduction of course
- > 1. Development board: FPGA chip (LP2900 tutorial board)
+ > 1. Development board: FPGA chip (LP2900 education board)
  > 2. IDE and programmer: Quartus II
  > 3. More details are provided in the Course_Introduction.pdf
  
